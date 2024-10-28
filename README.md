@@ -55,6 +55,7 @@ My main focus is **frontend development**, but I am learning across different ar
 <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
 </div>
+
 ## Others
 
 <div style="display: flex; gap: 10px;">
