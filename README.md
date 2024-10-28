@@ -12,7 +12,7 @@ My main focus is **frontend development**, but I am learning across different ar
 
 ## Individual Projects
 
-- 웹 플래시 게임 https://www.ambiguouosmachines.com
+- 웹 플래시 게임 https://www.ambiguousmachines.com
 - 한국 공휴일 달력 https://www.kholidayz.com
 - 커스텀 프린팅 티셔츠 제작 https://www.prinprin.vercel.app
 - 할인 결제 앱 서비스 tenthirty
