@@ -14,9 +14,9 @@ My main focus is **frontend development**, but I am learning across different ar
 
 - 웹 플래시 게임 https://www.ambiguousmachines.com
 - 한국 공휴일 달력 https://www.kholidayz.com
-- 커스텀 프린팅 티셔츠 제작 https://www.prinprin.vercel.app
+- 커스텀 프린팅 티셔츠 제작 https://prinprin.vercel.app
 - 할인 결제 앱 서비스 tenthirty
-- 미술 작품 이커머스 https://www.rgbtion.vercel.app
+- 미술 작품 이커머스 https://rgbtion.vercel.app
 - 주식 자동 매매 프로그램 Renko strikes
   <!-- - 대학교 축제 정리 사이트 https://www.campusival.vercel.app -->
   <!-- - 성격 테스트 웹서비스 https://www.roloru.vercel.app -->
