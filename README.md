@@ -21,7 +21,7 @@ My main focus is **frontend development**, but I am learning across different ar
   <!-- - 대학교 축제 정리 사이트 https://www.campusival.vercel.app -->
   <!-- - 성격 테스트 웹서비스 https://www.roloru.vercel.app -->
 
-## Client
+## Main
 
 <div style="display: flex; gap: 10px;">
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
@@ -30,7 +30,7 @@ My main focus is **frontend development**, but I am learning across different ar
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
 </div>
 
-## Server
+## Others
 
 <div style="display: flex; gap: 10px;">
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
@@ -56,7 +56,7 @@ My main focus is **frontend development**, but I am learning across different ar
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
 </div>
 
-## Others
+## Etc
 
 <div style="display: flex; gap: 10px;">
 <img src="https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=zustand&logoColor=white" alt="Zustand" />
