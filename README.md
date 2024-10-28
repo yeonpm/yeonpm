@@ -1,10 +1,11 @@
 # yeonpm
 
-👋 Nice to meet you
+👋 Nice to meet you!
 
-I am a developer who wants to make the world **more valuable** through software development.
-
-My main focus is **frontend development**, but I am learning across different areas as needed.
+<div>
+<p>I am a developer who wants to make the world **more valuable** through software development.</p>
+<p>My main focus is **frontend development**, but I am learning across different areas as needed.</p>
+</div>
 
 <a href="mailto:yeonpmdevelop@gmail.com">
 <img src="https://img.shields.io/badge/yeonpmdevelop@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="yeonpmdevelop@gmail.com" />
