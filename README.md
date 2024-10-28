@@ -23,13 +23,16 @@ My main focus is **frontend development**, but I am learning across different ar
 
 ## Client
 
+<div style="display: flex; gap: 10px;">
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
 <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+</div>
 
 ## Server
 
+<div style="display: flex; gap: 10px;">
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
 <img src="https://img.shields.io/badge/Java-DC382D?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -38,9 +41,11 @@ My main focus is **frontend development**, but I am learning across different ar
 <img src="https://img.shields.io/badge/JSP-DC382D?style=for-the-badge&logo=jsp&logoColor=white" alt="JSP" />
 <img src="https://img.shields.io/badge/cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VSCode" />
+</div>
 
 ## Skills
 
+<div style="display: flex; gap: 10px;">
 <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack" />
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 <img src="https://img.shields.io/badge/Zeplin-FDBD39?style=for-the-badge&logo=zeplin&logoColor=black" alt="Zeplin" />
@@ -49,9 +54,10 @@ My main focus is **frontend development**, but I am learning across different ar
 <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white" alt="Bitbucket" />
 <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
-
+</div>
 ## Others
 
+<div style="display: flex; gap: 10px;">
 <img src="https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=zustand&logoColor=white" alt="Zustand" />
 <img src="https://img.shields.io/badge/MobX-000000?style=for-the-badge&logo=mobx&logoColor=white" alt="MobX" />
 <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
@@ -75,3 +81,4 @@ My main focus is **frontend development**, but I am learning across different ar
 <img src="https://img.shields.io/badge/google_recaptcha-4285F4?style=for-the-badge&logo=recaptcha&logoColor=white" alt="Google reCAPTCHA" />
 <img src="https://img.shields.io/badge/Slack_Webhook-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack Webhook" />
 <img src="https://img.shields.io/badge/Discord_Webhook-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Webhook" />
+</div>
