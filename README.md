@@ -74,7 +74,6 @@
 <img src="https://img.shields.io/badge/vercel_analytics-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel Analytics" />
 <img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white" alt="AWS EC2" />
 <img src="https://img.shields.io/badge/AWS_Route53-FF9900?style=for-the-badge&logo=amazonroute53&logoColor=white" alt="AWS Route53" />
-<img src="https://img.shields.io/badge/gabia-000000?style=for-the-badge&logo=gabia&logoColor=white" alt="Gabia" />
 <img src="https://img.shields.io/badge/Google_Adsense-4285F4?style=for-the-badge&logo=googleadsense&logoColor=white" alt="Google Adsense" />
 <img src="https://img.shields.io/badge/Firestore-FF9900?style=for-the-badge&logo=firebase&logoColor=white" alt="Firestore" />
 <img src="https://img.shields.io/badge/Firebase_Storage-FF9900?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase Storage" />
