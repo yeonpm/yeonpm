@@ -3,8 +3,8 @@
 👋 Nice to meet you!
 
 <div>
-<p>I am a developer who wants to make the world <b>more valuable</b> through software development.</p>
-<p>My main focus is <b>frontend development</b>, and I am learning across different areas as needed.</p>
+<p>I am a developer who wants to make the world <b>more valuable</b> through software.</p>
+<p>My main focus is <b>frontend</b>, and I am learning across different areas as needed.</p>
 </div>
 
 <a href="mailto:yeonpmdevelop@gmail.com">
