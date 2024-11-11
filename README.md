@@ -13,6 +13,7 @@
 
 ## Individual Projects
 
+- react styling npm library https://www.npmjs.com/package/react-style-props
 - 웹 플래시 게임 https://www.ambiguousmachines.com
 - 한국 공휴일 달력 https://www.kholidayz.com
 - 커스텀 프린팅 티셔츠 제작 https://prinprin.vercel.app
