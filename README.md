@@ -66,7 +66,7 @@
 <img src="https://img.shields.io/badge/MobX-000000?style=for-the-badge&logo=mobx&logoColor=white" alt="MobX" />
 <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-<img src="https://img.shields.io/badge/PWA-013F56?style=for-the-badge&logo=pwa&logoColor=white" alt="PWA" />
+<img src="https://img.shields.io/badge/PWA-5a0fc8?style=for-the-badge&logo=pwa&logoColor=white" alt="PWA" />
 <img src="https://img.shields.io/badge/Bitbucket_Pipeline-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white" alt="Bitbucket Pipeline" />
 <img src="https://img.shields.io/badge/github_actions-000000?style=for-the-badge&logo=githubactions&logoColor=white" alt="Github Actions" />
 <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black" alt="YOLO" />
