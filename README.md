@@ -76,6 +76,8 @@
 <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" alt="Three.js" />
 <img src="https://img.shields.io/badge/vercel_deploy-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel Deploy" />
 <img src="https://img.shields.io/badge/vercel_analytics-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel Analytics" />
+<img src="https://img.shields.io/badge/vercel_neon_postgreSQL-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel Neon postgreSQL" />
+<img src="https://img.shields.io/badge/vercel_blob_storage-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel Blob Storage" />
 <img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white" alt="AWS EC2" />
 <img src="https://img.shields.io/badge/AWS_Route53-FF9900?style=for-the-badge&logo=amazonroute53&logoColor=white" alt="AWS Route53" />
 <img src="https://img.shields.io/badge/Google_Adsense-4285F4?style=for-the-badge&logo=googleadsense&logoColor=white" alt="Google Adsense" />
