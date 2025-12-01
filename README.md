@@ -7,7 +7,7 @@
 <ul>
 <li><b>Front-end</b> (react, react-native, next.js, typescript)</li>
 <li>2020 ~ now</li>
-<li>Python | Llama | REST API</li>
+<li>Python | Llama | REST API | GraphQL</li>
 </ul>
 </div>
 
@@ -18,8 +18,9 @@
 ## Individual Projects
 
 - react styling npm library https://www.npmjs.com/package/react-style-props
+- react component npm library https://www.npmjs.com/package/@yeonpm/react
 - js modules npm library https://www.npmjs.com/package/yeonpm-modules
-- 웹 플래시 게임 https://www.ambiguousmachines.com
+- 웹 플래시 게임 https://ambiguousmachines.vercel.app
 - 한국 공휴일 달력 https://www.kholidayz.com
 - 커스텀 프린팅 티셔츠 제작 https://prinprin.vercel.app
 - 미술 작품 이커머스 https://rgbtion.vercel.app
