@@ -17,11 +17,14 @@
 
 ## Individual Projects
 
+- 문서/포트폴리오 UI 컴포넌트 라이브러리 @yeonpm/docs-template https://www.npmjs.com/package/@yeonpm/docs-template
+- docs-template 라이브 가이드 사이트 https://yeonpm-docs-template.vercel.app
 - react styling npm library https://www.npmjs.com/package/react-style-props
 - react component npm library https://www.npmjs.com/package/@yeonpm/react
 - js modules npm library https://www.npmjs.com/package/yeonpm-modules
 - 웹 플래시 게임 https://ambiguousmachines.vercel.app
 - 한국 공휴일 달력 https://www.kholidayz.com
+- 음악 소통 중심 SNS PWA mmuni (진행 중, Next.js + Supabase) https://mmuni.vercel.app
 - 커스텀 프린팅 티셔츠 제작 https://prinprin.vercel.app
 - 미술 작품 이커머스 https://rgbtion.vercel.app
 - 할인 결제 앱 서비스 tenthirty
@@ -91,4 +94,6 @@
 <img src="https://img.shields.io/badge/google_recaptcha-4285F4?style=for-the-badge&logo=recaptcha&logoColor=white" alt="Google reCAPTCHA" />
 <img src="https://img.shields.io/badge/Slack_Webhook-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack Webhook" />
 <img src="https://img.shields.io/badge/Discord_Webhook-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Webhook" />
+<img src="https://img.shields.io/badge/gstack-000000?style=for-the-badge&logoColor=white" alt="gstack" />
+<img src="https://img.shields.io/badge/Impeccable-111827?style=for-the-badge&logoColor=white" alt="Impeccable" />
 </div>
