@@ -17,6 +17,8 @@
 
 ## Individual Projects
 
+- Canvas 기반 고성능 React 데이터 테이블 @yeonpm/table https://www.npmjs.com/package/@yeonpm/table
+- @yeonpm/table 공식 문서 (KO/EN) https://yeonpm-table.vercel.app
 - 문서/포트폴리오 UI 컴포넌트 라이브러리 @yeonpm/docs-template https://www.npmjs.com/package/@yeonpm/docs-template
 - docs-template 라이브 가이드 사이트 https://yeonpm-docs-template.vercel.app
 - react styling npm library https://www.npmjs.com/package/react-style-props
