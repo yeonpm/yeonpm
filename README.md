@@ -21,9 +21,9 @@
 - @yeonpm/table 공식 문서 (KO/EN) https://yeonpm-table.vercel.app
 - 문서/포트폴리오 UI 컴포넌트 라이브러리 @yeonpm/docs-template https://www.npmjs.com/package/@yeonpm/docs-template
 - docs-template 라이브 가이드 사이트 https://yeonpm-docs-template.vercel.app
-- react styling npm library https://www.npmjs.com/package/react-style-props
-- react component npm library https://www.npmjs.com/package/@yeonpm/react
-- js modules npm library https://www.npmjs.com/package/yeonpm-modules
+- react styling npm library https://www.npmjs.com/package/react-style-props · docs https://react-style-props.vercel.app
+- react component npm library https://www.npmjs.com/package/@yeonpm/react · docs https://yeonpm-react.vercel.app
+- js modules npm library https://www.npmjs.com/package/yeonpm-modules · docs https://yeonpm-modules.vercel.app
 - 웹 플래시 게임 https://ambiguousmachines.vercel.app
 - 한국 공휴일 달력 https://www.kholidayz.com
 - 음악 소통 중심 SNS PWA mmuni (진행 중, Next.js + Supabase) https://mmuni.vercel.app
