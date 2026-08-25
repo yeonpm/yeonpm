@@ -26,7 +26,8 @@
 - js modules npm library https://www.npmjs.com/package/yeonpm-modules · docs https://yeonpm-modules.vercel.app
 - 웹 플래시 게임 https://ambiguousmachines.vercel.app
 - 한국 공휴일 달력 https://www.kholidayz.com
-- 음악 소통 중심 SNS PWA mmuni (진행 중, Next.js + Supabase) https://mmuni.vercel.app
+- 음악 소통 중심 SNS mmuni — 프론트·백엔드 1인 구성 (진행 중, Next.js + Supabase) https://mmuni.vercel.app
+- 택시비 정산 PWA n-taxi (Next.js + Supabase) https://n-taxi.vercel.app
 - 커스텀 프린팅 티셔츠 제작 https://prinprin.vercel.app
 - 미술 작품 이커머스 https://rgbtion.vercel.app
 - 할인 결제 앱 서비스 tenthirty
