@@ -25,7 +25,7 @@
 - react component npm library https://www.npmjs.com/package/@yeonpm/react · docs https://yeonpm-react.vercel.app
 - js modules npm library https://www.npmjs.com/package/yeonpm-modules · docs https://yeonpm-modules.vercel.app
 - 웹 플래시 게임 https://ambiguousmachines.vercel.app
-- 한국 공휴일 달력 https://www.kholidayz.com
+- 한국 공휴일 달력 https://www.kholidayz.com — Lighthouse·SEO(메타/구조화 데이터·사이트맵·연도별 가이드·GSC CTR 개선)
 - 음악 소통 중심 SNS mmuni — 프론트·백엔드 1인 구성 (진행 중, Next.js + Supabase) https://mmuni.vercel.app
 - 택시비 정산 PWA n-taxi (Next.js + Supabase) https://n-taxi.vercel.app
 - 커스텀 프린팅 티셔츠 제작 https://prinprin.vercel.app
