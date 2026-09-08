@@ -5,9 +5,9 @@
 <div>
 <h2>Summary</h2>
 <ul>
-<li><b>Software Engineer</b> — web/app first; data · CV · LLM when the problem needs it</li>
+<li><b>Front-end</b> (react, react-native, next.js, typescript)</li>
 <li>2020 ~ now</li>
-<li>React | React Native | Next.js | Flutter | TypeScript | Python | Llama</li>
+<li>Python | Llama | REST API | GraphQL</li>
 </ul>
 </div>
 
