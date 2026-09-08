@@ -5,9 +5,9 @@
 <div>
 <h2>Summary</h2>
 <ul>
-<li><b>Front-end</b> (react, react-native, next.js, typescript)</li>
+<li><b>Software Engineer</b> — web/app first; data · CV · LLM when the problem needs it</li>
 <li>2020 ~ now</li>
-<li>Python | Llama | REST API | GraphQL</li>
+<li>React | React Native | Next.js | Flutter | TypeScript | Python | Llama</li>
 </ul>
 </div>
 
@@ -27,6 +27,7 @@
 - 웹 플래시 게임 https://ambiguousmachines.vercel.app
 - 한국 공휴일 달력 https://www.kholidayz.com — Lighthouse·SEO(메타/구조화 데이터·사이트맵·연도별 가이드·GSC CTR 개선)
 - 음악 소통 중심 SNS mmuni — 프론트·백엔드 1인 구성 (진행 중, Next.js + Supabase) https://mmuni.vercel.app
+- 일회용 카메라 앱 Camory (Flutter, Android/iOS)
 - 택시비 정산 PWA n-taxi (Next.js + Supabase) https://n-taxi.vercel.app
 - 커스텀 프린팅 티셔츠 제작 https://prinprin.vercel.app
 - 미술 작품 이커머스 https://rgbtion.vercel.app
@@ -42,6 +43,7 @@
 <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
 </div>
 
 ## Others
