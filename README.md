@@ -29,8 +29,6 @@
 - 음악 소통 중심 SNS mmuni — 프론트·백엔드 1인 구성 (진행 중, Next.js + Supabase) https://mmuni.vercel.app
 - 일회용 카메라 앱 Camory (Flutter, Android/iOS)
 - 택시비 정산 PWA n-taxi (Next.js + Supabase) https://n-taxi.vercel.app
-- 커스텀 프린팅 티셔츠 제작 https://prinprin.vercel.app
-- 미술 작품 이커머스 https://rgbtion.vercel.app
 - 할인 결제 앱 서비스 tenthirty
 - 주식 자동 매매 프로그램 Renko strikes
   <!-- - 대학교 축제 정리 사이트 https://www.campusival.vercel.app -->
