@@ -8,6 +8,7 @@
 <li><b>Front-end</b> (react, react-native, next.js, typescript)</li>
 <li>2020 ~ now</li>
 <li>Python | Llama | REST API | GraphQL</li>
+<li>AI-native development (Cursor, Claude Code, Codex, Agent Skills)</li>
 </ul>
 </div>
 
@@ -24,7 +25,8 @@
 - react styling npm library https://www.npmjs.com/package/react-style-props · docs https://react-style-props.vercel.app
 - react component npm library https://www.npmjs.com/package/@yeonpm/react · docs https://yeonpm-react.vercel.app
 - js modules npm library https://www.npmjs.com/package/yeonpm-modules · docs https://yeonpm-modules.vercel.app
-- 한국 공휴일 달력 https://www.kholidayz.com — Lighthouse·SEO(메타/구조화 데이터·사이트맵·연도별 가이드·GSC CTR 개선)
+- 한국 공휴일 달력 https://www.kholidayz.com — Lighthouse·SEO(메타/구조화 데이터·사이트맵·연도별 가이드·GSC CTR 개선), Cursor/Claude Code/Codex·Agent Skills로 감사·콘텐츠 개선
+- AI-native 개발 워크플로 — Cursor · Claude Code · Codex와 공유 Agent Skills로 기획·구현·배포 반복
 - 음악 소통 중심 SNS mmuni — 프론트·백엔드 1인 구성 (진행 중, Next.js + Supabase) https://mmuni.vercel.app
 - 일회용 카메라 앱 Camory (Flutter, Android/iOS)
 - 택시비 정산 PWA n-taxi (Next.js + Supabase) https://n-taxi.vercel.app
@@ -53,6 +55,8 @@
 <img src="https://img.shields.io/badge/Firebase-FF9900?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" />
 <img src="https://img.shields.io/badge/JSP-DC382D?style=for-the-badge&logo=jsp&logoColor=white" alt="JSP" />
 <img src="https://img.shields.io/badge/cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
+<img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code" />
+<img src="https://img.shields.io/badge/Codex-000000?style=for-the-badge&logo=openai&logoColor=white" alt="Codex" />
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VSCode" />
 </div>
 
