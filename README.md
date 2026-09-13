@@ -28,7 +28,7 @@
 - 한국 공휴일 달력 https://www.kholidayz.com — Lighthouse·SEO(메타/구조화 데이터·사이트맵·연도별 가이드·GSC CTR 개선)
 - AI-native 개발 워크플로 — Cursor · Claude Code · Codex와 공유 Agent Skills로 기획·구현·배포 반복
 - 음악 소통 중심 SNS mmuni — 프론트·백엔드 1인 구성 (진행 중, Next.js + Supabase) https://mmuni.vercel.app
-- 일회용 카메라 앱 Camory (Flutter, Android/iOS)
+- 일회용 카메라 앱 Camory (Flutter, Android/iOS) — 공식 사이트 구축·GitHub/Vercel 자동 배포 https://camory.vercel.app
 - 택시비 정산 PWA n-taxi (Next.js + Supabase) https://n-taxi.vercel.app
 - 할인 결제 앱 서비스 tenthirty
 - 주식 자동 매매 프로그램 Renko strikes
