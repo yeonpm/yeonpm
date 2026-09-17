@@ -9,12 +9,18 @@
 <li>2020 ~ now</li>
 <li>Python | Llama | REST API | GraphQL</li>
 <li>AI-native development (Cursor, Claude Code, Codex, Agent Skills)</li>
+<li>서비스 기획부터 구현·배포까지 주도적으로 이끈 제품 개발 경험</li>
 </ul>
 </div>
 
 <a href="mailto:yeonpmdevelop@gmail.com">
 <img src="https://img.shields.io/badge/yeonpmdevelop@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="yeonpmdevelop@gmail.com" />
 </a>
+
+## Work Experience Highlights
+
+- 대규모 ERP 프론트엔드 단독 개발 및 고성능 데이터 그리드 자체 구현
+- GitHub Gist의 plaintext 파일을 활용한 클라이언트 콘솔 로그 수집·공유 흐름과 로그 탐색·상세 확인 뷰어 구현
 
 ## Individual Projects
 
