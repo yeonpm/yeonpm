@@ -37,7 +37,7 @@
 - 음악 소통 중심 SNS mmuni — 프론트·백엔드 1인 구성 (진행 중, Next.js + Supabase) https://mmuni.vercel.app
 - 일회용 카메라 앱 Camory (Flutter, Android/iOS) — 공식 사이트 구축·GitHub/Vercel 자동 배포 https://camory.vercel.app
 - 택시비 정산 PWA n-taxi (Next.js + Supabase) https://n-taxi.vercel.app
-- 대학 축제 탐색 서비스 campustival — 일정·대학 초성 검색·아티스트별 라인업, 관리자 CRUD·자료 수집/검증 흐름 (Next.js + Supabase) https://campustival.vercel.app
+- 대학 축제 탐색 서비스 campustival — 대학·초성·축제명·아티스트 검색, 목록/달력, 설치형 PWA, SSR·검색 의도별 SEO 페이지·canonical·sitemap, 관리자 CRUD·자료 수집/검증 (Next.js + Supabase) https://campustival.com
 - 할인 결제 앱 서비스 tenthirty
 - 주식 자동 매매 프로그램 Renko strikes
   <!-- - 성격 테스트 웹서비스 https://www.roloru.vercel.app -->
