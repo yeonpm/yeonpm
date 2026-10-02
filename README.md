@@ -30,6 +30,13 @@
 
 ## Individual Projects
 
+- AI-native 개발 워크플로 — 분야별 에이전트의 역할과 책임을 명확히 나누고, 병목을 최소화하는 협업 체계 구성
+- 대학 축제 탐색 서비스 campustival — 대학·초성·축제명·아티스트 검색, 목록/달력, 설치형 PWA, SSR·검색 의도별 SEO 페이지·canonical·sitemap, 관리자 CRUD·자료 수집/검증 (Next.js + Supabase) https://campustival.com
+- 일회용 카메라 앱 Camory (Flutter, Android/iOS) — 공식 사이트 구축·GitHub/Vercel 자동 배포 https://camory.vercel.app
+- 한국 공휴일 달력 https://www.kholidayz.com — Lighthouse·SEO(메타/구조화 데이터·사이트맵·연도별 가이드·GSC CTR 개선)
+- 음악 소통 중심 SNS mmuni — 프론트·백엔드 1인 구성 (진행 중, Next.js + Supabase) https://mmuni.vercel.app
+- 택시비 정산 PWA n-taxi (Next.js + Supabase) https://n-taxi.vercel.app
+- 할인 결제 앱 서비스 tenthirty
 - Canvas 기반 고성능 React 데이터 테이블 @yeonpm/table https://www.npmjs.com/package/@yeonpm/table
 - @yeonpm/table 공식 문서 (KO/EN) https://yeonpm-table.vercel.app
 - 문서/포트폴리오 UI 컴포넌트 라이브러리 @yeonpm/docs-template https://www.npmjs.com/package/@yeonpm/docs-template
@@ -37,13 +44,6 @@
 - react styling npm library https://www.npmjs.com/package/react-style-props · docs https://react-style-props.vercel.app
 - react component npm library https://www.npmjs.com/package/@yeonpm/react · docs https://yeonpm-react.vercel.app
 - js modules npm library https://www.npmjs.com/package/yeonpm-modules · docs https://yeonpm-modules.vercel.app
-- 한국 공휴일 달력 https://www.kholidayz.com — Lighthouse·SEO(메타/구조화 데이터·사이트맵·연도별 가이드·GSC CTR 개선)
-- AI-native 개발 워크플로 — Cursor · Claude Code · Codex와 공유 Agent Skills로 기획·구현·배포 반복
-- 음악 소통 중심 SNS mmuni — 프론트·백엔드 1인 구성 (진행 중, Next.js + Supabase) https://mmuni.vercel.app
-- 일회용 카메라 앱 Camory (Flutter, Android/iOS) — 공식 사이트 구축·GitHub/Vercel 자동 배포 https://camory.vercel.app
-- 택시비 정산 PWA n-taxi (Next.js + Supabase) https://n-taxi.vercel.app
-- 대학 축제 탐색 서비스 campustival — 대학·초성·축제명·아티스트 검색, 목록/달력, 설치형 PWA, SSR·검색 의도별 SEO 페이지·canonical·sitemap, 관리자 CRUD·자료 수집/검증 (Next.js + Supabase) https://campustival.com
-- 할인 결제 앱 서비스 tenthirty
 - 주식 자동 매매 프로그램 Renko strikes
   <!-- - 성격 테스트 웹서비스 https://www.roloru.vercel.app -->
 
